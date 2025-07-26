@@ -1,0 +1,46 @@
+﻿    
+p.red {
+    color: red;
+}
+p.red {
+    color: red;
+}
+p.bold {
+    font-weight: bold;
+}
+p.bold {
+    font-weight: bold;
+}
+li.brown {
+    color: brown;
+}
+li.blue {
+    color: blue;
+}
+li.red {
+    color: red;
+}
+li.green {
+    color: green;
+}
+span.xxsmall {
+    font-size: 10px;
+}
+span.xsmall {
+    font-size: 20px;
+}
+span.large {
+    font-size: 30px;
+}
+span.xlarge {
+    font-size: 45px;
+}
+span.medium {
+    font-size: 35px;
+}
+span.xmedium {
+    font-size: 39px;
+}
+span.xxlarge {
+    font-size: 70px;
+}
